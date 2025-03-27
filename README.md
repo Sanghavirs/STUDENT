@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -1324,5 +1324,4 @@
             alert('Goals saved successfully!');
         });
     </script>
-</body>
-</html> in this code add in login page student login and teacher login both and print buttons is not working fix that
+
